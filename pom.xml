@@ -14,6 +14,7 @@
   </properties>
 
   <dependencies>
+    <!-- searches for ~/.m2/repository/nl/denkzelf/test2/1.0-SNAPSHOT/test2-1.0-SNAPSHOT-tests.jar -->
     <dependency>
       <groupId>nl.denkzelf</groupId>
       <artifactId>test2</artifactId>
