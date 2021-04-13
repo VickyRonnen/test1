@@ -8,7 +8,6 @@ public class Test1 {
 
   @Test
   void test1() {
-    String s = Tester2.myStaticHelper();
     Assertions.assertEquals("this helps static",Tester2.myStaticHelper());
   }
 
